@@ -1,6 +1,8 @@
 # TMC5160
 Stepper Motor Control with TMC5160
 
+[TMC5160-BOB documentation](https://www.trinamic.com/support/eval-kits/details/tmc5160-bob/)
+
 Ok, Here we go. So you've got one of these stepper motors. And you're tired of cheap chinese control board knockoffs with HUUUUGE capacitors and diodes that just don't do any good. Well, there is a solution. Get one of these TMC5160-based control boards, like the TMC5160 stepstick or a TMC5160-BOB right from Trinamic. 
 
 Now, you're ready to go. 
